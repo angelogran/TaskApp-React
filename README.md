@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+-App de administración de tareas realizada con React y Bootstrap para probar.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
